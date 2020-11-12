@@ -1,10 +1,10 @@
 # Analyzing Curriculum Logs
 
 ## About the Project
-For this project we will be using machine learning time series and anomaly detection methodologies 
+For this project we will be using machine learning time series and anomaly detection methodologies. 
 
 ## Goals
-Answer a list of questions for supervisor that need to be answered before the board meeting on Thursday morning
+Answer a list of questions for supervisor that need to be answered before the board meeting on Thursday morning.
 
 ## Deliverables
 - A Jupyter Notebook 
@@ -25,7 +25,6 @@ Answer a list of questions for supervisor that need to be answered before the bo
 ## Data Dictionary
 | Feature | Definition |
 |---------------------------|--------------------------------------------------|
-
 | timestamp     | YYYY-MM-DD hh:mm:ss ; time when page is accessed|  
 | page_viewed   | URL of curriculum accessed |  
 | user_id	    | Unique user ID|  
