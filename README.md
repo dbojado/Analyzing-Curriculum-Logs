@@ -1,4 +1,4 @@
-# Analyzing Curriculum Logs
+# Analyzing Curriculum Logs Project
 
 ## About the Project
 For this project we will be using machine learning time series and anomaly detection methodologies. 
